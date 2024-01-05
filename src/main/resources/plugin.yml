@@ -1,0 +1,4 @@
+name: PetaSprawdzanie
+version: '${project.version}'
+main: me.HikeTeam.PetaSprawdzanie
+api-version: '1.18'
